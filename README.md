@@ -1,6 +1,6 @@
 # Image Processing
 
-**Author:** VITALQM
+**Author:** WangB哦
 
 这里是我个人原创的图像处理代码合集。我将它们公开分享，希望能帮到有需要的人，也欢迎一起交流和学习。
 
