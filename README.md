@@ -26,4 +26,4 @@ If you have any questions or suggestions, feel free to reach out via email.
 
 ---
 
-© 2026 VITALQM. Shared under the MIT License.
+© 2026 WangBo. Shared under the MIT License.
